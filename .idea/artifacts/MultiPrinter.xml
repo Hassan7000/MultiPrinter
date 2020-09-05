@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MultiPrinter">
+    <output-path>$PROJECT_DIR$/../../Plugins folder</output-path>
+    <root id="archive" name="MultiPrinter.jar">
+      <element id="module-output" name="MultiPrinter" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

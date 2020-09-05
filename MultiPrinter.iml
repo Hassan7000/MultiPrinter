@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://C:/Users/hassan/Desktop/coding/spigot-1.12.2.jar" />
+    <libelement value="file://C:/Users/hassan/Desktop/coding/ShopGUIPlus-1.29.0.jar" />
+    <libelement value="file://C:/Users/hassan/Desktop/coding/Vault.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>SPIGOT</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="spigot-1.12.2.jar">
+        <CLASSES>
+          <root url="file://C:/Users/hassan/Desktop/coding/spigot-1.12.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ShopGUIPlus-1.29.0.jar">
+        <CLASSES>
+          <root url="file://C:/Users/hassan/Desktop/coding/ShopGUIPlus-1.29.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Vault.jar">
+        <CLASSES>
+          <root url="file://C:/Users/hassan/Desktop/coding/Vault.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="spigot-1.12.2" level="project" />
+    <orderEntry type="library" name="Vault" level="project" />
+    <orderEntry type="library" name="ShopGUIPlus-1.35.1" level="project" />
+    <orderEntry type="library" name="Matrix_5.0.0_hotfix_release" level="project" />
+    <orderEntry type="library" name="WildStacker-3.1.1" level="project" />
+    <orderEntry type="library" name="RiftGenerators" level="project" />
+  </component>
+</module>

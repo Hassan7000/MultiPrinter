@@ -1,0 +1,7 @@
+version: 1.0
+name: MultiPrinter
+main: me.hassan.multiprinter.MultiPrinter
+commands:
+  printer:
+    
+ 

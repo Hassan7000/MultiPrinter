@@ -1,0 +1,20 @@
+Printer-Enable: '&7You have &aenabled &7printer mode'
+Printer-Disable: '&7You have &cdisabled &7printer mode'
+Printer-MoneySpent: '&7You have spent &a${amount} &7while in printer mode'
+Printer-CantBreak: '&cYou cant break blocks that you havent placed while in printer mode!'
+Printer-Drop: '&cYou cant drop items while in printer mode'
+Printer-Damage: '&cYou cant damage entities while in printer mode'
+Printer-Command: '&cYou can only use /printer while in printer mode'
+Printer-Egg: '&cYou cant use eggs while in printer mode'
+Printer-Chest: '&cYou cant open chest while in printer mode'
+Printer-Potions: '&cYou cant use potions while in printer mode'
+Printer-Exp: '&cYou cant use exp bottles while in printer mode'
+Printer-Permission: '&cYou dont have permission to use this command'
+
+SellList: #Material:data:price
+- 'GRASS:0:2.5'
+- 'STONE:0:1.2'
+- 'DIAMOND_BLOCK:0:100'
+
+Settings:
+ ShopGuiPlus: false
